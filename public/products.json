@@ -1,0 +1,68 @@
+[
+    {
+      "name" : "beer",
+      "image" : "images/beer.jpg",
+      "type" : "drink"
+    },
+    {
+      "name" : "carrot",
+      "image" : "images/carrot.jpg",
+      "type" : "vegetables"
+    },
+    {
+      "name" : "coffee",
+      "image" : "images/coffee.jpg",
+      "type" : "drink"
+    },
+    {
+      "name" : "cucumber",
+      "image" : "images/cucumber.jpg",
+      "type" : "vegetables"
+    },
+    {
+      "name" : "lettuce",
+      "image" : "images/lettuce.jpg",
+      "type" : "vegetables"
+    },
+    {
+      "name" : "onion",
+      "image" : "images/onion.jpg",
+      "type" : "vegetables"
+    },
+    {
+      "name" : "potato",
+      "image" : "images/potato.jpg",
+      "type" : "vegetables"
+    },
+    {
+      "name" : "tea",
+      "image" : "images/tea.jpg",
+      "type" : "drink"
+    },
+    {
+      "name" : "tomato",
+      "image" : "images/tomato.jpg",
+      "type" : "vegetables"
+    },
+    {
+      "name" : "wine",
+      "image" : "images/wine.jpg",
+      "type" : "drink"
+    },
+    {
+      "name" : "pasta",
+      "image" : "images/pasta.jpg",
+      "type" : "food"
+    },
+    {
+      "name" : "curry",
+      "image" : "images/curry.jpg",
+      "type" : "food"
+    },
+    {
+      "name" : "pizza",
+      "image" : "images/pizza.jpg",
+      "type" : "food"
+    }
+ 
+  ]
